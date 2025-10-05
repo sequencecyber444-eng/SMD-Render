@@ -2,7 +2,7 @@
   
 ______
 
-[![Shaban](https://raw.githubusercontent.com/iTx-Sarkar/SMD-Render/main/Shaban/mr.svg)](https://whatsapp.com/channel/0029Vb6aq4cCHDygiEqJZl0S)
+[![Shaban](https://files.catbox.moe/7m53zc.jpg)](https://whatsapp.com/channel/0029Vb6aq4cCHDygiEqJZl0S)
 ___ 
   
 <p align="center">
