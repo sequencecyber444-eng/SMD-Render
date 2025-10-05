@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: EDITH-MD
+    name: SMD-RENDER
     env: node
     plan: free
     repo: https://github.com/iTx-Sarkar/SMD-Render
