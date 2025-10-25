@@ -6,7 +6,8 @@
   "scripts": {
     "start": "NO_AT_BRIDGE=1 pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
     "stop": "pm2 stop SHABAN-MD",
-    "restart": "pm2 restart SHABAN-MD"
+    "restart": "pm2 restart SHABAN-MD",
+    "postinstall": "npm rebuild sqlite3 --build-from-source"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.19",
